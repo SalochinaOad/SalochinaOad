@@ -1,6 +1,10 @@
 ### Hi, I'm Salchina!
 - 🔭 Data Scientist, Researcher
-<!--
+
+## Certifications
+- 🌱Certified Azure Data Scientist
+
+## Connect with me:
 
 
 Here are some ideas to get you started:
