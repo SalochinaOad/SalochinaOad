@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Salchina!
 
 <!--
-**SalochinaOad/SalochinaOad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist, Researcher
 
 Here are some ideas to get you started:
 
