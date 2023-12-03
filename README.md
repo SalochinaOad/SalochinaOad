@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Salochina!
-    A data scientist and a researcher, really enjoy working and getting insights from variety of data.
+- A data scientist and a researcher, really enjoy working and getting insights from variety of data.
     Learning never stops to me, I am always eager to explore🔭 . 
 
 ### Certifications🌱:
