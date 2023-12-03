@@ -1,7 +1,7 @@
 ### Hi, I'm Salchina!
-
-<!--
 Data Scientist, Researcher
+<!--
+
 
 Here are some ideas to get you started:
 
