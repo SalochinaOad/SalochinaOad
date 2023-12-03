@@ -1,5 +1,6 @@
-# Hi, I'm Salchina!
-🔭 Data Scientist, Researcher
+### Hi there👋!
+🔭 I am a data scientist and a researcher. I really enjoy working and getting insights from variety of data.
+    Learning never stops to me, I am always open to explore AI platforms. 
 
 ## Certifications🌱:
 - Certified Azure Data Scientist
@@ -13,7 +14,7 @@
 
 
 ## Connect with me 📫:
-- Salochinaoad@gmail.com
+- https://www.linkedin.com/in/salochina-oad-phd-45704682/, Salochinaoad@gmail.com
 
 
 
