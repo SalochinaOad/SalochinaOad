@@ -1,6 +1,6 @@
-# Hi there👋!
-🔭 I am a data scientist and a researcher. I really enjoy working and getting insights from variety of data.
-    Learning never stops to me, I am always open to explore AI platforms. 
+# 👋 Hi, I'm Salochina!
+    A data scientist and a researcher, really enjoy working and getting insights from variety of data.
+    Learning never stops to me, I am always eager to explore🔭 . 
 
 ### Certifications🌱:
 - Certified Azure Data Scientist
@@ -13,7 +13,7 @@
 
 ### Connect with me🤳:
  - ![image](https://github.com/SalochinaOad/SalochinaOad/assets/55360277/d0c5a473-7d7e-432b-a250-434f82ea75be)https://www.linkedin.com/in/salochina-oad-phd-45704682/
- - salochinaoad@gmail.com
+ -   salochinaoad@gmail.com
 
 
 
