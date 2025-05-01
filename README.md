@@ -3,6 +3,7 @@
     Learning never stops to me, I am always eager to explore🔭 . 
 
 ### Certifications🌱:
+- Databricks
 - Certified Azure Data Scientist
 - Datarobot for Data Scientists
 - Hands on Essential-Data warehouse by Snowflake
